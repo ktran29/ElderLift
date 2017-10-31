@@ -18,7 +18,10 @@ const TabApp = TabNavigator({
             size={30}
             style={{ color: tintColor}}
           />
-        )
+        ),
+        header: {
+          visible: true
+        }
       }
     },
     Locations: {
