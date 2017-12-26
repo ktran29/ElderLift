@@ -1,7 +1,8 @@
 import Amplify from 'aws-amplify-react-native';
-import { aws_exports } from './aws-exports.js';
+import aws_exports from './aws-exports.js';
 import React from 'react';
 import { StackNavigator } from 'react-navigation';
+import { withAuthenticator, API } from 'aws-amplify-react-native';
 
 import WelcomeScreen from './WelcomeScreen.js';
 import HomeScreen from './HomeScreen.js';
@@ -13,4 +14,4 @@ const NavApp = StackNavigator({
     Home: { screen: HomeScreen }
 });
 
-export default NavApp;
+export default withAuthenticator(NavApp);

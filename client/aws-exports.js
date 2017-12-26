@@ -19,6 +19,11 @@ aws_project_id : '5b45158e-a570-4e5e-919f-12d0203894f0',
 aws_project_name : 'elderLift',
 aws_project_region : 'us-east-1',
 aws_resource_name_prefix : 'elderlift-mobilehub-942361379',
+aws_sign_in_enabled : 'enable',
+aws_user_pools : 'enable',
+aws_user_pools_id : 'us-east-1_WnOXa7KQ3',
+aws_user_pools_mfa_type : 'OPTIONAL',
+aws_user_pools_web_client_id : '1nr72047b4fc8ake387994lg1r',
 }
 
 export default awsmobile;
