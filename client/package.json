@@ -19,8 +19,12 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "aws-sdk": "^2.175.0",
     "expo": "^23.0.4",
     "react": "16.0.0",
-    "react-native": "0.50.3"
+    "react-native": "0.50.3",
+    "react-native-aws-cognito-js": "0.0.7",
+    "react-native-navigation": "^1.1.319",
+    "react-native-prompt": "^1.0.0"
   }
 }
