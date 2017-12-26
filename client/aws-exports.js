@@ -7,18 +7,18 @@
 // AWS Mobile Hub Project Constants
 const awsmobile = {
 aws_app_analytics : 'enable',
-aws_cognito_identity_pool_id : 'us-east-1:3e6f8f34-4745-4c50-b0bf-c876af8872f1',
+aws_cognito_identity_pool_id : 'us-east-1:6ee23c0c-b3e8-415a-9d20-c6173f5187e3',
 aws_cognito_region : 'us-east-1',
 aws_content_delivery : 'enable',
-aws_content_delivery_bucket : 'elderlift-hosting-mobilehub-1333657238',
+aws_content_delivery_bucket : 'elderlift-hosting-mobilehub-942361379',
 aws_content_delivery_bucket_region : 'us-east-1',
 aws_content_delivery_cloudfront : 'enable',
-aws_content_delivery_cloudfront_domain : 'd1nowmjvtyt76q.cloudfront.net',
-aws_mobile_analytics_app_id : '37a5d8a51cb74bffa4a9a08cc665d8cb',
-aws_project_id : 'c3333580-e83a-43cb-a712-95bd60aeca99',
+aws_content_delivery_cloudfront_domain : 'ddpzo5y14wiav.cloudfront.net',
+aws_mobile_analytics_app_id : '218741d459834cf7b426e2ae08d907b7',
+aws_project_id : '5b45158e-a570-4e5e-919f-12d0203894f0',
 aws_project_name : 'elderLift',
 aws_project_region : 'us-east-1',
-aws_resource_name_prefix : 'elderlift-mobilehub-1333657238',
+aws_resource_name_prefix : 'elderlift-mobilehub-942361379',
 }
 
 export default awsmobile;
