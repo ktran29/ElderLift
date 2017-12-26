@@ -1,0 +1,22 @@
+{
+	"ProjectName": "ElderLift",
+	"ProjectPath": "/Users/kevintran/Documents/Projects/ElderLift",
+	"SourceDir": "client",
+	"DistributionDir": "dist",
+	"BuildCommand": "npm run-script build",
+	"StartCommand": "npm run-script start",
+	"InitializationTime": "2017-12-26-00-46-46",
+	"LastConfigurationTime": "2017-12-26-00-46-49",
+	"LastNPMInstallTime": "",
+	"FrontendLastBuildTime": "",
+	"LastPublishTime": "",
+	"BackendFormat": "yml",
+	"BackendLastBuildTime": "",
+	"BackendLastUpdateTime": "",
+	"BackendLastUpdateSuccessful": false,
+	"BackendProjectID": "c3333580-e83a-43cb-a712-95bd60aeca99",
+	"BackendProjectName": "elderLift",
+	"BackendProjectConsoleUrl": "https://console.aws.amazon.com/mobilehub/home#/c3333580-e83a-43cb-a712-95bd60aeca99/build",
+	"BackendProjectCreationTime": "2017-12-26T08:38:54.263Z",
+	"BackendProjectLastUpdatedTime": "2017-12-26T08:39:09.262Z"
+}
