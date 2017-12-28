@@ -23,6 +23,8 @@
     "react-native": "0.50.3",
     "react-native-aws-cognito-js": "0.0.7",
     "react-native-prompt": "^1.0.0",
+    "react-native-responsive-dimensions": "^1.0.2",
+    "react-native-vector-icons": "^4.4.3",
     "react-navigation": "^1.0.0-beta.22"
   }
 }

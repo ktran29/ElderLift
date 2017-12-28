@@ -12,6 +12,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/kevintran/Documents/Projects/ElderLift/client/android/app/build/intermediates/exploded-aar/client/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/kevintran/Documents/Projects/ElderLift/client/android/app/build/intermediates/pre-dexed/debug/client-react-native-vector-icons-unspecified_7f60d036fe2e4ca49755ee50d6dbda6b414a2419.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/kevintran/Documents/Projects/ElderLift/client/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"

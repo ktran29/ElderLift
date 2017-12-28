@@ -17,12 +17,7 @@ export default class WelcomeScreen extends React.Component {
         <Text style={styles.title}>elderlift</Text>
         <TouchableHighlight style={styles.touch} onPress={() => navigate('Home')}>
             <View style={styles.button}>
-                <Text style={styles.buttonText}>login</Text>
-            </View>
-        </TouchableHighlight>
-        <TouchableHighlight style={styles.touch} onPress={() => navigate('Home')}>
-            <View style={styles.button}>
-                <Text style={styles.buttonText}>register</Text>
+                <Text style={styles.buttonText}>enter</Text>
             </View>
         </TouchableHighlight>
       </View>
